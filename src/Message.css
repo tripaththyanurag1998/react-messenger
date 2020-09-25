@@ -1,0 +1,41 @@
+.message{
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+}
+.message_user{
+    margin-left: auto;
+}
+.message_usercard{
+    background-color: #0b81ff!important;
+}
+.message_usercard h2{
+    color: #fff;
+    font-size: 18px!important;
+}
+.MuiPaper-rounded{
+    border-radius: 25px!important;
+}
+.message_guestcard{
+    background-color: #e9e9eb!important;
+}
+.message_guestcard h2{
+    font-size: 18px!important;
+}
+.MuiCardContent-root{
+    padding-bottom: 0!important;
+    padding: 7px 20px!important;
+}
+.MuiFormControl-root{
+    display: flex!important;
+    flex-direction: row!important;
+    max-width: 100%;
+    justify-content: center;
+    align-items:center;
+}
+.MuiInput-root{
+    width: 80%!important;
+}
+.MuiIconButton-root{
+    width: 5%!important;
+}
